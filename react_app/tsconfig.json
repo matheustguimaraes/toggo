@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    /* As opções de configuração ficam aqui como "irmãs" */
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "typeRoots": ["./types", "./node_modules/@types"],
+
+    /* A configuração do apelido de caminho fica aqui, no mesmo nível */
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./react_app/*"] 
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

@@ -1,0 +1,35 @@
+/* components/ThemeToggleButton.module.css */
+
+.floatingButton {
+  /* --- A mágica para flutuar --- */
+  position: fixed;
+  top: 1.5rem;   /* MUDANÇA: Distância do topo */
+  left: 50%;     /* MUDANÇA: Posição inicial no centro horizontal */
+  transform: translateX(-50%); /* MUDANÇA: Puxa o botão para a esquerda pela metade do seu tamanho, centralizando-o perfeitamente */
+  z-index: 1000;
+
+  /* --- Estilo do botão --- */
+  width: 55px;
+  height: 55px;
+  border-radius: 50%; /* Deixa o botão redondo */
+  background-color: #2f2f49; /* Mesma cor da sua sidebar */
+  color: white;
+  border: 2px solid #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  
+  /* --- Estilo do ícone (emoji) --- */
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  /* --- Animação --- */
+  transition: all 0.2s ease-in-out;
+}
+
+.floatingButton:hover {
+  transform: translateX(-50%) scale(1.1); 
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+  background-color: #6c47b7; /* Cor roxa do seu tema */
+}

@@ -1,0 +1,2027 @@
+[
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 482,
+    "fields": {
+      "name": "SAMBA MAIORAL - DE FÉRIAS COM O MAIORAL - 12/07",
+      "category": "Festas e shows",
+      "location": "Evento presencial em JamRock, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/samba-maioral-de-ferias-com-o-maioral-12-07/2989488",
+      "scheduled_begin_at": "2025-08-16",
+      "scheduled_end_at": "2025-08-16",
+      "photo": "https://images.sympla.com.br/68431745e46c2-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.701Z",
+      "updated_at": "2025-07-31T03:31:23.726Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 483,
+    "fields": {
+      "name": "É Retrô que Chama com Sylvinho Blau Blau",
+      "category": "Festas e shows",
+      "location": "Evento presencial em 5 ELEMENTOS PUB, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/e-retro-que-chama-com-sylvinho-blau-blau/2949973",
+      "scheduled_begin_at": "2025-08-15",
+      "scheduled_end_at": "2025-08-15",
+      "photo": "https://images.sympla.com.br/6835e42667c04-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.703Z",
+      "updated_at": "2025-07-31T03:31:23.748Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 484,
+    "fields": {
+      "name": "COVER OFICIAL RIHANNA (PRISCILA BEATRICE SP) + SUPREMMAS 06/07 18H",
+      "category": "Festas e shows",
+      "location": "Evento presencial em É Sim Comer e Beber, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/cover-oficial-rihanna-priscila-beatrice-sp-supremmas-06-07-18h/2998570",
+      "scheduled_begin_at": "2025-08-07",
+      "scheduled_end_at": "2025-08-07",
+      "photo": "https://images.sympla.com.br/6859d04f86ff6-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.704Z",
+      "updated_at": "2025-07-31T03:31:23.751Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 485,
+    "fields": {
+      "name": "Thales Roberto",
+      "category": "Festas e shows",
+      "location": "Evento presencial em IGREJA COMUNIDADE CRISTÃ LOGOS, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/thales-roberto/2991283",
+      "scheduled_begin_at": "2025-08-01",
+      "scheduled_end_at": "2025-08-01",
+      "photo": "https://images.sympla.com.br/6868388a5fb7e-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.705Z",
+      "updated_at": "2025-07-31T03:31:23.729Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 486,
+    "fields": {
+      "name": "MAR ABERTO - UM LUGAR DE CALMARIA - FORTALEZA",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Teatro Celina Queiroz, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/mar-aberto-um-lugar-de-calmaria-fortaleza/3014073",
+      "scheduled_begin_at": "2025-08-05",
+      "scheduled_end_at": "2025-08-05",
+      "photo": "https://images.sympla.com.br/685da668bf643-lg.png",
+      "created_at": "2025-07-30T23:56:50.706Z",
+      "updated_at": "2025-07-31T03:31:23.730Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 487,
+    "fields": {
+      "name": "Tribo de Jah 40 Anos",
+      "category": "Festas e shows",
+      "location": "Evento presencial em KINGSTON 085, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/tribo-de-jah-40-anos/3016048",
+      "scheduled_begin_at": "2025-08-30",
+      "scheduled_end_at": "2025-08-30",
+      "photo": "https://images.sympla.com.br/686045016b40c-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.706Z",
+      "updated_at": "2025-07-31T03:31:23.731Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 488,
+    "fields": {
+      "name": "Bileyi Ya Pokua - Samba com Buffet Africano Fortaleza",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Av. da Universidade, 2327, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/bileyi-ya-pokua-samba-com-buffet-africano-fortaleza/2945185",
+      "scheduled_begin_at": "2025-08-09",
+      "scheduled_end_at": "2025-08-09",
+      "photo": "https://images.sympla.com.br/6845b0f1b114c-lg.png",
+      "created_at": "2025-07-30T23:56:50.707Z",
+      "updated_at": "2025-07-31T03:31:23.731Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 489,
+    "fields": {
+      "name": "Axé do Micareteiros no Floresta",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Floresta Bar, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/axe-do-micareteiros-no-floresta/3025781",
+      "scheduled_begin_at": "2025-08-14",
+      "scheduled_end_at": "2025-08-14",
+      "photo": "https://images.sympla.com.br/686822b97f493-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.709Z",
+      "updated_at": "2025-07-31T03:31:23.748Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 490,
+    "fields": {
+      "name": "Bruna Ene - Músicas Cruéis (2ª Edição)",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Hytti Pub, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/taylor-swift-brikynn-s-version-party/3005305",
+      "scheduled_begin_at": "2025-08-26",
+      "scheduled_end_at": "2025-08-26",
+      "photo": "https://images.sympla.com.br/686822e33e42d-lg.png",
+      "created_at": "2025-07-30T23:56:50.710Z",
+      "updated_at": "2025-07-31T03:31:23.733Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 491,
+    "fields": {
+      "name": "You Can Dance - Edição Fortaleza",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Vibe 085, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/you-can-dance-edicao-fortaleza/3007390",
+      "scheduled_begin_at": "2025-08-07",
+      "scheduled_end_at": "2025-08-07",
+      "photo": "https://images.sympla.com.br/68589736c419b-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.711Z",
+      "updated_at": "2025-07-31T03:31:23.750Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 492,
+    "fields": {
+      "name": "Tributo ao Linkin Park e Charlie Brown Jr - Fortaleza/CE",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Floresta Bar , Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/tributo-ao-linkin-park-e-charlie-brown-jr-fortaleza-ce/2996511",
+      "scheduled_begin_at": "2025-08-12",
+      "scheduled_end_at": "2025-08-12",
+      "photo": "https://images.sympla.com.br/6850124010134-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.712Z",
+      "updated_at": "2025-07-31T03:31:23.733Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 493,
+    "fields": {
+      "name": "São João dos Fontanas - 12/07",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Condomínio Fontana Di Pavia, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/sao-joao-dos-fontanas-12-07/3013377",
+      "scheduled_begin_at": "2025-08-16",
+      "scheduled_end_at": "2025-08-16",
+      "photo": "https://images.sympla.com.br/685d5bec0283f-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.713Z",
+      "updated_at": "2025-07-31T03:31:23.734Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 494,
+    "fields": {
+      "name": "CARLOS RILMAR EM FORTALEZA - A VOLTA DO PRÍNCIPE POP DO FORRÓ NO TEXAS PUB",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Av. Gen. Osório de Paiva, 1973, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/carlos-rilmar-em-fortaleza-a-volta-do-principe-pop-do-forro-no-texas-pub/2967436",
+      "scheduled_begin_at": "2025-08-01",
+      "scheduled_end_at": "2025-08-01",
+      "photo": "https://images.sympla.com.br/682e19120e6a6-lg.png",
+      "created_at": "2025-07-30T23:56:50.714Z",
+      "updated_at": "2025-07-31T03:31:23.734Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 495,
+    "fields": {
+      "name": "Festa Inaugural - Atlética Cabulosa",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Arena Festa Point - Espaço de Festas, Eventos e Futebol, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/festa-inaugural-atletica-cabulosa/2962128",
+      "scheduled_begin_at": "2025-08-22",
+      "scheduled_end_at": "2025-08-22",
+      "photo": "https://images.sympla.com.br/682a2146e268d-lg.png",
+      "created_at": "2025-07-30T23:56:50.715Z",
+      "updated_at": "2025-07-31T03:31:23.735Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 496,
+    "fields": {
+      "name": "Etapa II. 2ª - CAMPEONATO CEARENSE DE SPRINT TRIATHLON 2025",
+      "category": "Esportes",
+      "location": "Evento presencial em Local a definir, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/etapa-ii-2a-campeonato-cearense-de-sprint-triathlon-2025/2960401",
+      "scheduled_begin_at": "2025-08-19",
+      "scheduled_end_at": "2025-08-19",
+      "photo": "https://images.sympla.com.br/66704d0109f7a-lg.png",
+      "created_at": "2025-07-30T23:56:50.716Z",
+      "updated_at": "2025-07-31T03:31:23.817Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 497,
+    "fields": {
+      "name": "Desenvolvendo a Inteligência Emocional na Gestão Condominial",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Duets Office Towers, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/desenvolvendo-a-inteligencia-emocional-na-gestao-condominial/2874679",
+      "scheduled_begin_at": "2025-08-08",
+      "scheduled_end_at": "2025-08-08",
+      "photo": "https://images.sympla.com.br/67d79d950c6a5-lg.png",
+      "created_at": "2025-07-30T23:56:50.717Z",
+      "updated_at": "2025-07-31T03:31:23.755Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 498,
+    "fields": {
+      "name": "30 por 15",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em Theatro José de Alencar, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/30-por-15/3015357",
+      "scheduled_begin_at": "2025-08-08",
+      "scheduled_end_at": "2025-08-08",
+      "photo": "https://images.sympla.com.br/685ed86c52439-lg.png",
+      "created_at": "2025-07-30T23:56:50.718Z",
+      "updated_at": "2025-07-31T03:31:23.822Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 499,
+    "fields": {
+      "name": "ESPECIAL LOS HERMANOS - FORTALEZA",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Opera Music Bar, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/especial-los-hermanos-fortaleza/2998832",
+      "scheduled_begin_at": "2025-08-18",
+      "scheduled_end_at": "2025-08-18",
+      "photo": "https://images.sympla.com.br/684dce2096634-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.719Z",
+      "updated_at": "2025-07-31T03:31:23.746Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 500,
+    "fields": {
+      "name": "Junto & Misturado - Aniversário Rael e Hailton",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Mangangá Pub, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/junto-misturado-aniversario-rael-e-hailton/3024847",
+      "scheduled_begin_at": "2025-08-08",
+      "scheduled_end_at": "2025-08-08",
+      "photo": "https://images.sympla.com.br/6867646a05ea6-lg.png",
+      "created_at": "2025-07-30T23:56:50.720Z",
+      "updated_at": "2025-07-31T03:31:23.741Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 501,
+    "fields": {
+      "name": "LIBERTARIAMENTE FESTIVAL |GRITANDO HC EM FORTALEZA-CE",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Casarão do benfica, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/libertariamente-festival-gritando-hc-em-fortaleza-ce/2980568",
+      "scheduled_begin_at": "2025-08-21",
+      "scheduled_end_at": "2025-08-21",
+      "photo": "https://images.sympla.com.br/68437928e480a-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.720Z",
+      "updated_at": "2025-07-31T03:31:23.739Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 502,
+    "fields": {
+      "name": "Lizandra em Fortaleza/CE",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Teatro Municipal São José, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/lizandra-em-fortaleza-ce/3022181",
+      "scheduled_begin_at": "2025-08-24",
+      "scheduled_end_at": "2025-08-24",
+      "photo": "https://images.sympla.com.br/686559a91001b-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.721Z",
+      "updated_at": "2025-07-31T03:31:23.740Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 503,
+    "fields": {
+      "name": "CHORA MARÉ : GRACINHA + LEVES PASSOS + ALICE DAVID",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Vila Bachá, 5, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/chora-mare-gracinha-leves-passos-alice-david/3019414",
+      "scheduled_begin_at": "2025-08-22",
+      "scheduled_end_at": "2025-08-22",
+      "photo": "https://images.sympla.com.br/68634177a4cd6-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.722Z",
+      "updated_at": "2025-07-31T03:31:23.740Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 504,
+    "fields": {
+      "name": "ARRAIÁ DOM BOSCO 2025",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Colégio Salesiano Dom Bosco Fortaleza, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/arraia-dom-bosco-2025/2973888",
+      "scheduled_begin_at": "2025-08-07",
+      "scheduled_end_at": "2025-08-07",
+      "photo": "https://images.sympla.com.br/6834b2b066bfe-lg.png",
+      "created_at": "2025-07-30T23:56:50.723Z",
+      "updated_at": "2025-07-31T03:31:23.741Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 505,
+    "fields": {
+      "name": "DE VOLTA AOS ANOS 2000",
+      "category": "Festas e shows",
+      "location": "Evento presencial em The Lights, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/de-volta-aos-anos-2000/3021543",
+      "scheduled_begin_at": "2025-08-08",
+      "scheduled_end_at": "2025-08-08",
+      "photo": "https://images.sympla.com.br/6865241f573f5-lg.png",
+      "created_at": "2025-07-30T23:56:50.724Z",
+      "updated_at": "2025-07-31T03:31:23.741Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 506,
+    "fields": {
+      "name": "Coquetel de Inauguração HEROES COFFEE & BAR",
+      "category": "Festas e shows",
+      "location": "Evento presencial em R. Farias Lemos, 801, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/coquetel-de-inauguracao-heroes-coffee-bar/2996874",
+      "scheduled_begin_at": "2025-08-30",
+      "scheduled_end_at": "2025-08-30",
+      "photo": "https://images.sympla.com.br/684afe076a58e-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.725Z",
+      "updated_at": "2025-07-31T03:31:23.742Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 507,
+    "fields": {
+      "name": "Pagodão Transacional ~ Mulher Barbada + Os Transacionais",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Moto Libre, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/pagodao-transacional-mulher-barbada-os-transacionais/3018873",
+      "scheduled_begin_at": "2025-08-14",
+      "scheduled_end_at": "2025-08-14",
+      "photo": "https://images.sympla.com.br/6863005b085f6-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.726Z",
+      "updated_at": "2025-07-31T03:31:23.742Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 508,
+    "fields": {
+      "name": "ARRAIÁ DO ESPAÇO CRIAR",
+      "category": "Festas e shows",
+      "location": "Evento presencial em (Casa de Tereza) Rua Coronel Honório Vieira, 152, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/arraia-do-espaco-criar/3003184",
+      "scheduled_begin_at": "2025-08-04",
+      "scheduled_end_at": "2025-08-04",
+      "photo": "https://images.sympla.com.br/6855be96cf0ea-lg.png",
+      "created_at": "2025-07-30T23:56:50.726Z",
+      "updated_at": "2025-07-31T03:31:23.743Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 509,
+    "fields": {
+      "name": "Cólera em Fortaleza/CE - Nordeste TOUR 2025 Ophera Music Bar",
+      "category": "Festas e shows",
+      "location": "Evento presencial em ophera music bar, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/colera-em-fortaleza-ce-nordeste-tour-2025-ophera-music-bar/2839985",
+      "scheduled_begin_at": "2025-08-26",
+      "scheduled_end_at": "2025-08-26",
+      "photo": "https://images.sympla.com.br/67b4b76b58ed2-lg.png",
+      "created_at": "2025-07-30T23:56:50.728Z",
+      "updated_at": "2025-07-31T03:31:23.744Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 510,
+    "fields": {
+      "name": "ARRAIA RECADO 2025 #NOSSOXOTETEMLOUVOREALEGRIA",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Igreja de Nossa Senhora da Glória, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/arraia-recado-2025-nossoxotetemlouvorealegria/2948257",
+      "scheduled_begin_at": "2025-08-24",
+      "scheduled_end_at": "2025-08-24",
+      "photo": "https://images.sympla.com.br/681c09d8757e4-lg.png",
+      "created_at": "2025-07-30T23:56:50.728Z",
+      "updated_at": "2025-07-31T03:31:23.744Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 511,
+    "fields": {
+      "name": "SÃO JOÃO DA 48",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Av. João de Araújo Lima, 333, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/sao-joao-da-48/2916919",
+      "scheduled_begin_at": "2025-07-31",
+      "scheduled_end_at": "2025-07-31",
+      "photo": "https://images.sympla.com.br/67feaf9120f49-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.730Z",
+      "updated_at": "2025-07-31T03:31:23.745Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 512,
+    "fields": {
+      "name": "Peso Não, Tonelada - A FESTA",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Baladinha Club, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/peso-nao-tonelada-a-festa/2987441",
+      "scheduled_begin_at": "2025-08-04",
+      "scheduled_end_at": "2025-08-04",
+      "photo": "https://images.sympla.com.br/6840a1da626ac-lg.png",
+      "created_at": "2025-07-30T23:56:50.731Z",
+      "updated_at": "2025-07-31T03:31:23.747Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 513,
+    "fields": {
+      "name": "BAILE DA ADM",
+      "category": "Festas e shows",
+      "location": "Evento presencial em SPACE FORTALEZA, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/baile-da-adm/2990956",
+      "scheduled_begin_at": "2025-08-12",
+      "scheduled_end_at": "2025-08-12",
+      "photo": "https://images.sympla.com.br/6847341a5219d-lg.png",
+      "created_at": "2025-07-30T23:56:50.733Z",
+      "updated_at": "2025-07-31T03:31:23.748Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 514,
+    "fields": {
+      "name": "Conexão Bora convida Catatau, Caiô (Outragalera), BNegão e Daniel Ganjaman mediação de Lua Magnética",
+      "category": "Festas e shows",
+      "location": "Evento presencial em Centro Cultural Belchior, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/conexao-bora-convida-catatau-caio-outragalera-bnegao-e-daniel-ganjaman-mediacao-de-lua-magnetica/3018038",
+      "scheduled_begin_at": "2025-08-23",
+      "scheduled_end_at": "2025-08-23",
+      "photo": "https://images.sympla.com.br/6862ef8cb85ed-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.735Z",
+      "updated_at": "2025-07-31T03:31:23.750Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 515,
+    "fields": {
+      "name": "MENTORIA | SELEÇÕES DE MESTRADO E DOUTORADO",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Momentum Office, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/mentoria-selecoes-de-mestrado-e-doutorado/3020316",
+      "scheduled_begin_at": "2025-08-21",
+      "scheduled_end_at": "2025-08-21",
+      "photo": "https://images.sympla.com.br/68640de7df22e-lg.png",
+      "created_at": "2025-07-30T23:56:50.736Z",
+      "updated_at": "2025-07-31T03:31:23.751Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 516,
+    "fields": {
+      "name": "PNL - PROGRAMAÇÃO NEUROLINGUÍSTICA (COM CERTIFICAÇÃO)",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em  O evento será online - Fortaleza, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/pnl-programacao-neurolinguistica-com-certificacao/3008058",
+      "scheduled_begin_at": "2025-08-18",
+      "scheduled_end_at": "2025-08-18",
+      "photo": "https://images.sympla.com.br/660316ca29fbc-lg.png",
+      "created_at": "2025-07-30T23:56:50.737Z",
+      "updated_at": "2025-07-31T03:31:23.803Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 517,
+    "fields": {
+      "name": "Webinar das Cidades Digitais da Região Metropolitana de Fortaleza",
+      "category": "Cursos e Workshops",
+      "location": "Evento Online via Youtube",
+      "link": "https://www.sympla.com.br/evento-online/webinar-das-cidades-digitais-da-regiao-metropolitana-de-fortaleza/2789099",
+      "scheduled_begin_at": "2025-08-23",
+      "scheduled_end_at": "2025-08-23",
+      "photo": "https://images.sympla.com.br/677ec763cd012-lg.png",
+      "created_at": "2025-07-30T23:56:50.738Z",
+      "updated_at": "2025-07-31T03:31:23.753Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 518,
+    "fields": {
+      "name": "Aulão de Véspera - PMCE Aluno e ex aluno GB",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em HOTEL PRAIA CENTRO, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/aulao-de-vespera-pmce-aluno-e-ex-aluno-gb/2959126",
+      "scheduled_begin_at": "2025-08-22",
+      "scheduled_end_at": "2025-08-22",
+      "photo": "https://images.sympla.com.br/682db9e067a96-lg.png",
+      "created_at": "2025-07-30T23:56:50.739Z",
+      "updated_at": "2025-07-31T03:31:23.774Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 519,
+    "fields": {
+      "name": "Curso de Grafologia: Do Básico ao Intermediário (Presencial) - Facilitador Jefferson Almeida - AGIRH",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em AGIRH Consultoria Organizacional, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/curso-de-grafologia-do-basico-ao-intermediario-presencial-facilitador-jefferson-almeida-agirh/3010018",
+      "scheduled_begin_at": "2025-08-13",
+      "scheduled_end_at": "2025-08-13",
+      "photo": "https://images.sympla.com.br/685ab487befb6-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.740Z",
+      "updated_at": "2025-07-31T03:31:23.795Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 520,
+    "fields": {
+      "name": "OFICINA | Construindo paraquedas coloridos Com Romã Salviano",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Museu da Imagem e do Som Chico Albuquerque, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/oficina-construindo-paraquedas-coloridos-com-roma-salviano/3008245",
+      "scheduled_begin_at": "2025-08-24",
+      "scheduled_end_at": "2025-08-24",
+      "photo": "https://images.sympla.com.br/68597f7852f0e-lg.png",
+      "created_at": "2025-07-30T23:56:50.742Z",
+      "updated_at": "2025-07-31T03:31:23.759Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 521,
+    "fields": {
+      "name": "ARENA 4X | Silencie seus críticos e assuma o PROTAGONISMO de sua vida!",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Controller Aldeota: Consultoria empresarial, Gestão Financeira em Fortaleza CE, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/arena-4x-silencie-seus-criticos-e-assuma-o-protagonismo-de-sua-vida/2975036",
+      "scheduled_begin_at": "2025-08-21",
+      "scheduled_end_at": "2025-08-21",
+      "photo": "https://images.sympla.com.br/685c8b259484f-lg.png",
+      "created_at": "2025-07-30T23:56:50.742Z",
+      "updated_at": "2025-07-31T03:31:23.784Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 522,
+    "fields": {
+      "name": "2ª Edição Leite & Corte +NE",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Vila Galé, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/treinamento-de-software/3017410",
+      "scheduled_begin_at": "2025-07-31",
+      "scheduled_end_at": "2025-07-31",
+      "photo": "https://images.sympla.com.br/6840fba59d075-lg.png",
+      "created_at": "2025-07-30T23:56:50.743Z",
+      "updated_at": "2025-07-31T03:31:23.757Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 523,
+    "fields": {
+      "name": "SERGINHO LACERDA - VIDA DE PAI - em FORTALEZA/CE",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em Teatro Brasil Tropical, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/serginho-lacerda-vida-de-pai-em-fortaleza-ce/3014422",
+      "scheduled_begin_at": "2025-08-08",
+      "scheduled_end_at": "2025-08-08",
+      "photo": "https://images.sympla.com.br/6824e57bf1239-lg.png",
+      "created_at": "2025-07-30T23:56:50.744Z",
+      "updated_at": "2025-07-31T03:31:23.822Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 524,
+    "fields": {
+      "name": "SOLUÇÕES 360: INSTALE E CONFIGURE INTERFONIA IP PARA CONDOMÍNIOS",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em DTS Distribuidora Centro, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/solucoes-360-instale-e-configure-interfonia-ip-para-condominios/3023346",
+      "scheduled_begin_at": "2025-08-22",
+      "scheduled_end_at": "2025-08-22",
+      "photo": "https://images.sympla.com.br/686674a91c146-lg.png",
+      "created_at": "2025-07-30T23:56:50.746Z",
+      "updated_at": "2025-07-31T03:31:23.803Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 525,
+    "fields": {
+      "name": "Os temperamentos na relação entre Pais e Filhos",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Clínica Lignum Vitae, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/os-temperamentos-na-relacao-entre-pais-e-filhos/2998129",
+      "scheduled_begin_at": "2025-08-07",
+      "scheduled_end_at": "2025-08-07",
+      "photo": "https://images.sympla.com.br/684c658c8426f-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.747Z",
+      "updated_at": "2025-07-31T03:31:23.760Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 526,
+    "fields": {
+      "name": "LIDERE SEM DESFALECER com JOÃO LUCAS PSICANALISTA",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Coworking Parquelândia, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/lidere-sem-desfalecer-com-joao-lucas-psicanalista/2968894",
+      "scheduled_begin_at": "2025-08-21",
+      "scheduled_end_at": "2025-08-21",
+      "photo": "https://images.sympla.com.br/683bbf046e0a7-lg.png",
+      "created_at": "2025-07-30T23:56:50.748Z",
+      "updated_at": "2025-07-31T03:31:23.760Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 527,
+    "fields": {
+      "name": "Certificação em Técnicas de Liberação Miofascial, Massagem com Aparelhos e Ventosatepia 2025",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Polo Fortaleza (UNIBTA), Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/certificacao-em-tecnicas-de-liberacao-miofascial-massagem-com-aparelhos-e-ventosatepia-2025/2913180",
+      "scheduled_begin_at": "2025-08-07",
+      "scheduled_end_at": "2025-08-07",
+      "photo": "https://images.sympla.com.br/67fbec139fb97-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.748Z",
+      "updated_at": "2025-07-31T03:31:23.769Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 528,
+    "fields": {
+      "name": "16h - Passeio de Barco pelo Rio Ceará - Festival BORA Fortaleza",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Píer da Barra do Ceará, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/16h-passeio-de-barco-pelo-rio-ceara-festival-bora-fortaleza/3019015",
+      "scheduled_begin_at": "2025-08-12",
+      "scheduled_end_at": "2025-08-12",
+      "photo": "https://images.sympla.com.br/68630ada83139-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.750Z",
+      "updated_at": "2025-07-31T03:31:23.799Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 529,
+    "fields": {
+      "name": "14º Meeting da CMGB- Liderança Àgil na Pratica",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em BS Tower, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/curso-presencial-avaliacao-e-reparo-de-infraestruturas/2947668",
+      "scheduled_begin_at": "2025-08-18",
+      "scheduled_end_at": "2025-08-18",
+      "photo": "https://images.sympla.com.br/685c0949c5832-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.751Z",
+      "updated_at": "2025-07-31T03:31:23.763Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 530,
+    "fields": {
+      "name": "Monografia Sem Mistério",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Torre Empresarial Iguatemi, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/monografia-sem-misterio/3011279",
+      "scheduled_begin_at": "2025-08-27",
+      "scheduled_end_at": "2025-08-27",
+      "photo": "https://images.sympla.com.br/685b699736218-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.752Z",
+      "updated_at": "2025-07-31T03:31:23.764Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 531,
+    "fields": {
+      "name": "Jornada do Consultor: Como a Consultoria Pode Transformar Sua Carreira e Sua Organização.",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Rocket55, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/jornada-do-consultor-como-a-consultoria-pode-transformar-sua-carreira-e-sua-organizacao/2958472",
+      "scheduled_begin_at": "2025-08-20",
+      "scheduled_end_at": "2025-08-20",
+      "photo": "https://images.sympla.com.br/6825d3eb8a5df-lg.png",
+      "created_at": "2025-07-30T23:56:50.753Z",
+      "updated_at": "2025-07-31T03:31:23.765Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 532,
+    "fields": {
+      "name": "18° Edição - Fórum IEP de Sustentabilidade",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Shopping RioMar Fortaleza, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/15-30-passeio-de-barco-pelo-rio-ceara-festival-bora-fortaleza/3018992",
+      "scheduled_begin_at": "2025-08-26",
+      "scheduled_end_at": "2025-08-26",
+      "photo": "https://images.sympla.com.br/6867e5c390408-lg.png",
+      "created_at": "2025-07-30T23:56:50.755Z",
+      "updated_at": "2025-07-31T03:31:23.767Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 533,
+    "fields": {
+      "name": "FITDANCE CHAMPIONS CEARÁ",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Círculo Militar de Fortaleza, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/fitdance-champions-ceara/2948498",
+      "scheduled_begin_at": "2025-08-13",
+      "scheduled_end_at": "2025-08-13",
+      "photo": "https://images.sympla.com.br/681ca5b5f266d-lg.png",
+      "created_at": "2025-07-30T23:56:50.756Z",
+      "updated_at": "2025-07-31T03:31:23.768Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 534,
+    "fields": {
+      "name": "CONGRESSO BRASILEIRO DE ACUPUNTURA - ABA",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Av. Beira Mar, 2380, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/congresso-brasileiro-de-acupuntura-aba/2971600",
+      "scheduled_begin_at": "2025-08-11",
+      "scheduled_end_at": "2025-08-11",
+      "photo": "https://images.sympla.com.br/6831c5a091705-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.757Z",
+      "updated_at": "2025-07-31T03:31:23.787Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 535,
+    "fields": {
+      "name": "Workshop Gratuito: O que é Formação Integral? A Perspectiva da Pedagogia Logosófica",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em R. Padre Valdevino, 150, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/workshop-gratuito-o-que-e-formacao-integral-a-perspectiva-da-pedagogia-logosofica/2952172",
+      "scheduled_begin_at": "2025-08-10",
+      "scheduled_end_at": "2025-08-10",
+      "photo": "https://images.sympla.com.br/685e058d0d5aa-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.759Z",
+      "updated_at": "2025-07-31T03:31:23.770Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 536,
+    "fields": {
+      "name": "Workshop ESG",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em BS Design Corporate Towers, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/workshop-esg/3021037",
+      "scheduled_begin_at": "2025-08-28",
+      "scheduled_end_at": "2025-08-28",
+      "photo": "https://images.sympla.com.br/6864433730904-lg.png",
+      "created_at": "2025-07-30T23:56:50.760Z",
+      "updated_at": "2025-07-31T03:31:23.771Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 537,
+    "fields": {
+      "name": "Curso de Higiene Ocupacional Com Gustavo Rezende",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Edifício Hot Center, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/curso-de-higiene-ocupacional-com-gustavo-rezende/2969793",
+      "scheduled_begin_at": "2025-08-01",
+      "scheduled_end_at": "2025-08-01",
+      "photo": "https://images.sympla.com.br/682f9fd1a9034-lg.png",
+      "created_at": "2025-07-30T23:56:50.761Z",
+      "updated_at": "2025-07-31T03:31:23.772Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 538,
+    "fields": {
+      "name": "Como formar filhos sábios e virtuosos?",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Colégio Christus - Sul 3, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/como-formar-filhos-sabios-e-virtuosos/2998306",
+      "scheduled_begin_at": "2025-08-28",
+      "scheduled_end_at": "2025-08-28",
+      "photo": "https://images.sympla.com.br/6859be092d2f6-lg.png",
+      "created_at": "2025-07-30T23:56:50.762Z",
+      "updated_at": "2025-07-31T03:31:23.772Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 539,
+    "fields": {
+      "name": "WORKSHOP SENSORIAL BUSINESS (DECORAÇÃO DE EVENTOS)",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Casa Bone Sensorial, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/workshop-sensorial-business-decoracao-de-eventos/3021486",
+      "scheduled_begin_at": "2025-08-22",
+      "scheduled_end_at": "2025-08-22",
+      "photo": "https://images.sympla.com.br/68650f2a7d618-lg.png",
+      "created_at": "2025-07-30T23:56:50.763Z",
+      "updated_at": "2025-07-31T03:31:23.773Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 540,
+    "fields": {
+      "name": "Liberta, Mulher! - Evento Fortaleza",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Edifício Harmony Premium Business, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/liberta-mulher-evento-fortaleza/3010791",
+      "scheduled_begin_at": "2025-08-24",
+      "scheduled_end_at": "2025-08-24",
+      "photo": "https://images.sympla.com.br/685afc24a4865-lg.png",
+      "created_at": "2025-07-30T23:56:50.764Z",
+      "updated_at": "2025-07-31T03:31:23.774Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 541,
+    "fields": {
+      "name": "I Simpósio de Direito Previdenciário do IAPE em Fortaleza/CE",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Av. Washington Soares, 800, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/i-simposio-de-direito-previdenciario-do-iape-em-fortaleza-ce/2957116",
+      "scheduled_begin_at": "2025-08-20",
+      "scheduled_end_at": "2025-08-20",
+      "photo": "https://images.sympla.com.br/6824a7b055a2b-lg.png",
+      "created_at": "2025-07-30T23:56:50.765Z",
+      "updated_at": "2025-07-31T03:31:23.775Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 542,
+    "fields": {
+      "name": "Além do Rótulo: \" Quando a fala vem sem sentido ou o sentido vem sem a fala?\"",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Auditorio do RioMar Kennedy Empresarial, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/alem-do-rotulo-quando-a-fala-vem-sem-sentido-ou-o-sentido-vem-sem-a-fala/2986600",
+      "scheduled_begin_at": "2025-08-23",
+      "scheduled_end_at": "2025-08-23",
+      "photo": "https://images.sympla.com.br/6840469e4d57f-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.767Z",
+      "updated_at": "2025-07-31T03:31:23.776Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 543,
+    "fields": {
+      "name": "XV ENPRORCE 2025",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Centro Universitário Estácio do Ceará - Campus Centro, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/xv-enprorce-2025/2952434",
+      "scheduled_begin_at": "2025-08-12",
+      "scheduled_end_at": "2025-08-12",
+      "photo": "https://images.sympla.com.br/68214af806e08-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.768Z",
+      "updated_at": "2025-07-31T03:31:23.777Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 544,
+    "fields": {
+      "name": "CURSO DE FORMAÇÃO EM ACUPUNTURA",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Mundo Akar, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/curso-de-formacao-em-acupuntura/2855569",
+      "scheduled_begin_at": "2025-08-30",
+      "scheduled_end_at": "2025-08-30",
+      "photo": "https://images.sympla.com.br/67c2487c1ff27-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.769Z",
+      "updated_at": "2025-07-31T03:31:23.778Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 545,
+    "fields": {
+      "name": "FOCO - FORMAÇÃO DE COMUNICADORES - 13ª EDIÇÃO",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em R. Ary Barroso, 70, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/curso-de-oratoria/2945099",
+      "scheduled_begin_at": "2025-08-11",
+      "scheduled_end_at": "2025-08-11",
+      "photo": "https://images.sympla.com.br/684ff6b817e59-lg.png",
+      "created_at": "2025-07-30T23:56:50.770Z",
+      "updated_at": "2025-07-31T03:31:23.779Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 546,
+    "fields": {
+      "name": "CONGRESSO INTERNACIONAL DE MEDICINA TRADICIONAL CHINESA E PRÁTICAS INTEGRATIVAS",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em unifametro , Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/congresso-internacional-de-medicina-tradicional-chinesa-e-praticas-integrativas/2855587",
+      "scheduled_begin_at": "2025-08-01",
+      "scheduled_end_at": "2025-08-01",
+      "photo": "https://images.sympla.com.br/67c24e80abf30-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.771Z",
+      "updated_at": "2025-07-31T03:31:23.780Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 547,
+    "fields": {
+      "name": "I Cear Experience",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em ABO - Associação Brasileira de Odontologia - Seção Ceará, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/i-cear-experience/3016794",
+      "scheduled_begin_at": "2025-08-18",
+      "scheduled_end_at": "2025-08-18",
+      "photo": "https://images.sympla.com.br/6864663ba318f-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.772Z",
+      "updated_at": "2025-07-31T03:31:23.780Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 548,
+    "fields": {
+      "name": "CURSO DE APLICAÇÃO DE INJETÁVEIS",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em 2487, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/curso-de-aplicacao-de-injetaveis/2947860",
+      "scheduled_begin_at": "2025-08-09",
+      "scheduled_end_at": "2025-08-09",
+      "photo": "https://images.sympla.com.br/681bb7b7b2630-lg.png",
+      "created_at": "2025-07-30T23:56:50.772Z",
+      "updated_at": "2025-07-31T03:31:23.781Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 549,
+    "fields": {
+      "name": "Ateliê Aberto: Fortaleza Cidade Criativa do Design no Ateliê de Impressos (Leonardo Buggy)",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em R. Pereira Filgueiras, 288, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/atelie-aberto-fortaleza-cidade-criativa-do-design-no-atelie-de-impressos-leonardo-buggy/3018598",
+      "scheduled_begin_at": "2025-08-06",
+      "scheduled_end_at": "2025-08-06",
+      "photo": "https://images.sympla.com.br/6862f0255fd3d-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.773Z",
+      "updated_at": "2025-07-31T03:31:23.781Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 550,
+    "fields": {
+      "name": "Palestra Pública : Rumo ao Universo dentro de nós",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em R. Frederico Borges, 545, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/palestra-publica-rumo-ao-universo-dentro-de-nos/2952187",
+      "scheduled_begin_at": "2025-08-16",
+      "scheduled_end_at": "2025-08-16",
+      "photo": "https://images.sympla.com.br/6841d752db896-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.774Z",
+      "updated_at": "2025-07-31T03:31:23.782Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 551,
+    "fields": {
+      "name": "I SIMPÓSIO CEARENSE EM SEXUALIDADE",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Av. Des. Moreira, 2800, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/i-simposio-cearense-em-sexualidade/2974248",
+      "scheduled_begin_at": "2025-08-11",
+      "scheduled_end_at": "2025-08-11",
+      "photo": "https://images.sympla.com.br/6834d54e0454f-lg.png",
+      "created_at": "2025-07-30T23:56:50.775Z",
+      "updated_at": "2025-07-31T03:31:23.783Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 552,
+    "fields": {
+      "name": "Workshop \"Do Medo ao Palco\" - Primeiro Passo para Superar o Medo de Falar em Público",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em R. Nunes Valente, 980, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/workshop-do-medo-ao-palco-primeiro-passo-para-superar-o-medo-de-falar-em-publico/3012593",
+      "scheduled_begin_at": "2025-08-22",
+      "scheduled_end_at": "2025-08-22",
+      "photo": "https://images.sympla.com.br/685d526f1be50-lg.png",
+      "created_at": "2025-07-30T23:56:50.776Z",
+      "updated_at": "2025-07-31T03:31:23.783Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 553,
+    "fields": {
+      "name": "Seminário Inteligência artificial e o Futuro dos Negócios na área da Saúde",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em TEC UNIFOR - Parque Tecnológico da Universidade de Fortaleza (Bloco M), Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/seminario-inteligencia-artificial-e-o-futuro-dos-negocios-na-area-da-saude/3016993",
+      "scheduled_begin_at": "2025-08-17",
+      "scheduled_end_at": "2025-08-17",
+      "photo": "https://images.sympla.com.br/68643b34ce698-lg.png",
+      "created_at": "2025-07-30T23:56:50.778Z",
+      "updated_at": "2025-07-31T03:31:23.788Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 554,
+    "fields": {
+      "name": "Roda de conversa - comunidade RH Otimizado",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Uniateneu Bezerra de Menezes - Harmony, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/roda-de-conversa-comunidade-rh-otimizado/3017740",
+      "scheduled_begin_at": "2025-08-21",
+      "scheduled_end_at": "2025-08-21",
+      "photo": "https://images.sympla.com.br/6862c5e59f5cc-lg.png",
+      "created_at": "2025-07-30T23:56:50.778Z",
+      "updated_at": "2025-07-31T03:31:23.785Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 555,
+    "fields": {
+      "name": "III Simpósio Internacional de Psicopatologia Fenomenológica",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em UNIFOR - Universidade de Fortaleza, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/iii-simposio-internacional-de-psicopatologia-fenomenologica/3007452",
+      "scheduled_begin_at": "2025-08-22",
+      "scheduled_end_at": "2025-08-22",
+      "photo": "https://images.sympla.com.br/6859a4f882534-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.782Z",
+      "updated_at": "2025-07-31T03:31:23.789Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 556,
+    "fields": {
+      "name": "CANVA PARA INICIANTES - EDIÇÃO 103 Turma para professores de todas as áreas e níveis de ensino.",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Rua Desembargador Jose Gil de Carvalho, 162, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/canva-para-iniciantes-edicao-103-turma-para-professores-de-todas-as-areas-e-niveis-de-ensino/2998995",
+      "scheduled_begin_at": "2025-08-21",
+      "scheduled_end_at": "2025-08-21",
+      "photo": "https://images.sympla.com.br/684e77cc1432d-lg.png",
+      "created_at": "2025-07-30T23:56:50.782Z",
+      "updated_at": "2025-07-31T03:31:23.789Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 557,
+    "fields": {
+      "name": "1° Workshop Baruk | Criatividade e Propósito em Ação",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Colégio Jim Willson, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/9h-passeio-de-barco-pelo-rio-ceara-festival-bora-fortaleza/3018192",
+      "scheduled_begin_at": "2025-08-09",
+      "scheduled_end_at": "2025-08-09",
+      "photo": "https://images.sympla.com.br/6867f54bddc7a-lg.png",
+      "created_at": "2025-07-30T23:56:50.784Z",
+      "updated_at": "2025-07-31T03:31:23.790Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 558,
+    "fields": {
+      "name": "CAPACITA PET CEARÁ - Programa de Capacitação em Proteção Animal - Treinamento Gratuito!",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Fundação Demócrito Rocha, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/capacita-pet-ceara-programa-de-capacitacao-em-protecao-animal-treinamento-gratuito/2969086",
+      "scheduled_begin_at": "2025-08-16",
+      "scheduled_end_at": "2025-08-16",
+      "photo": "https://images.sympla.com.br/67c6090a7a5aa-lg.png",
+      "created_at": "2025-07-30T23:56:50.786Z",
+      "updated_at": "2025-07-31T03:31:23.792Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 559,
+    "fields": {
+      "name": "Curso de Semiologia Ortopédica Veterinária",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Guararapes Vet Center, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/curso-de-semiologia-ortopedica-veterinaria/3015819",
+      "scheduled_begin_at": "2025-08-21",
+      "scheduled_end_at": "2025-08-21",
+      "photo": "https://images.sympla.com.br/685f137e6a77c-lg.png",
+      "created_at": "2025-07-30T23:56:50.786Z",
+      "updated_at": "2025-07-31T03:31:23.796Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 560,
+    "fields": {
+      "name": "Workshop Recursos e Ferramentas Para Terapeutas Não Psicólogos",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Espaço Grão, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/workshop-recursos-e-ferramentas-para-terapeutas-nao-psicologos/2980393",
+      "scheduled_begin_at": "2025-08-03",
+      "scheduled_end_at": "2025-08-03",
+      "photo": "https://images.sympla.com.br/6839b6056b99a-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.787Z",
+      "updated_at": "2025-07-31T03:31:23.793Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 561,
+    "fields": {
+      "name": "CURSO - IA PARA EDUCADORES",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Digital College Fortaleza, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/curso-ia-para-educadores/2908790",
+      "scheduled_begin_at": "2025-08-27",
+      "scheduled_end_at": "2025-08-27",
+      "photo": "https://images.sympla.com.br/68482676d2f0b-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.788Z",
+      "updated_at": "2025-07-31T03:31:23.793Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 562,
+    "fields": {
+      "name": "Curso Crítica de Quadrinhos e Quadrinhos como Crítica - Usando as HQs para ver o mundo",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Av. Pessoa Anta, 287, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/curso-critica-de-quadrinhos-e-quadrinhos-como-critica-usando-as-hqs-para-ver-o-mundo/3012180",
+      "scheduled_begin_at": "2025-08-15",
+      "scheduled_end_at": "2025-08-15",
+      "photo": "https://images.sympla.com.br/685c3f764f9a0-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.789Z",
+      "updated_at": "2025-07-31T03:31:23.794Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 563,
+    "fields": {
+      "name": "NM2B 2025 | Da ideia à ação: lideranças que transformam",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em L'Ô Restaurante, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/nm2b-2025-da-ideia-a-acao-liderancas-que-transformam/2927851",
+      "scheduled_begin_at": "2025-08-19",
+      "scheduled_end_at": "2025-08-19",
+      "photo": "https://images.sympla.com.br/6850bfd1dbe0b-lg.png",
+      "created_at": "2025-07-30T23:56:50.789Z",
+      "updated_at": "2025-07-31T03:31:23.794Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 564,
+    "fields": {
+      "name": "Liderança e Gestão de Pessoas em Fortaleza com Alfredo Rocha",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Fábrica de Negócios, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/lideranca-e-gestao-de-pessoas-em-fortaleza-com-alfredo-rocha/2960127",
+      "scheduled_begin_at": "2025-08-12",
+      "scheduled_end_at": "2025-08-12",
+      "photo": "https://images.sympla.com.br/68275d392710d-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.790Z",
+      "updated_at": "2025-07-31T03:31:23.795Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 565,
+    "fields": {
+      "name": "Departamento Pessoal na Construção Civil 2025.2",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Stop Way Hotel Fortaleza, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/departamento-pessoal-na-construcao-civil-2025-2/2951492",
+      "scheduled_begin_at": "2025-08-28",
+      "scheduled_end_at": "2025-08-28",
+      "photo": "https://images.sympla.com.br/681f486a560ac-lg.png",
+      "created_at": "2025-07-30T23:56:50.793Z",
+      "updated_at": "2025-07-31T03:31:23.797Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 566,
+    "fields": {
+      "name": "A Mente de Vendas",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Uni 7 - Centro Universitário 7 de Setembro, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/a-mente-de-vendas/2957823",
+      "scheduled_begin_at": "2025-08-18",
+      "scheduled_end_at": "2025-08-18",
+      "photo": "https://images.sympla.com.br/6824ebca537e2-lg.png",
+      "created_at": "2025-07-30T23:56:50.793Z",
+      "updated_at": "2025-07-31T03:31:23.798Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 567,
+    "fields": {
+      "name": "MENTORIA HOF Turma VIII",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Clínica Souriez Odontologia - Dentista em Fortaleza, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/mentoria-hof-turma-viii/2775161",
+      "scheduled_begin_at": "2025-08-07",
+      "scheduled_end_at": "2025-08-07",
+      "photo": "https://images.sympla.com.br/63cc8d11045fb-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.794Z",
+      "updated_at": "2025-07-31T03:31:23.801Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 568,
+    "fields": {
+      "name": "Curso de Atualização Vocal",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Hotel Sonata de Iracema, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/curso-de-atualizacao-vocal/2967597",
+      "scheduled_begin_at": "2025-08-21",
+      "scheduled_end_at": "2025-08-21",
+      "photo": "https://images.sympla.com.br/682e2558a5228-lg.png",
+      "created_at": "2025-07-30T23:56:50.795Z",
+      "updated_at": "2025-07-31T03:31:23.799Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 569,
+    "fields": {
+      "name": "Ateliê Aberto: Fortaleza Cidade Criativa do Design no Estúdio Érico Gondim",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Av. Monsenhor Tabosa, 15, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/atelie-aberto-fortaleza-cidade-criativa-do-design-no-estudio-erico-gondim/3018537",
+      "scheduled_begin_at": "2025-08-20",
+      "scheduled_end_at": "2025-08-20",
+      "photo": "https://images.sympla.com.br/6862f011020e3-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.796Z",
+      "updated_at": "2025-07-31T03:31:23.800Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 570,
+    "fields": {
+      "name": "Suplementação e Prescrição Magistral na Saúde da Mulher e Longevidade",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em R. Joaquim Nabuco, 2906, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/suplementacao-e-prescricao-magistral-na-saude-da-mulher-e-longevidade/2985442",
+      "scheduled_begin_at": "2025-08-15",
+      "scheduled_end_at": "2025-08-15",
+      "photo": "https://images.sympla.com.br/68533284c84a8-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.797Z",
+      "updated_at": "2025-07-31T03:31:23.800Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 571,
+    "fields": {
+      "name": "Pintura em taças de vinho + brunch e espumante",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em R. José Vilar, 262, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/pintura-em-tacas-de-vinho-brunch-e-espumante/3007451",
+      "scheduled_begin_at": "2025-08-16",
+      "scheduled_end_at": "2025-08-16",
+      "photo": "https://images.sympla.com.br/6858b4a90b48e-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.798Z",
+      "updated_at": "2025-07-31T03:31:23.801Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 572,
+    "fields": {
+      "name": "Rossandro Klinjey em Fortaleza - Palestra \"As 5 Faces do Perdão\"",
+      "category": "Cursos e Workshops",
+      "location": "Evento presencial em Hotel Praia Centro, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/rossandro-klinjey-em-fortaleza-palestra-as-5-faces-do-perdao/2835171",
+      "scheduled_begin_at": "2025-08-22",
+      "scheduled_end_at": "2025-08-22",
+      "photo": "https://images.sympla.com.br/67af3682cd48e-lg.png",
+      "created_at": "2025-07-30T23:56:50.799Z",
+      "updated_at": "2025-07-31T03:31:23.802Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 573,
+    "fields": {
+      "name": "Roda Rosa pelo Grande Mucuripe - Festival BORA Fortaleza",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em Mercado dos Peixes de Fortaleza, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/roda-rosa-pelo-grande-mucuripe-festival-bora-fortaleza/3018247",
+      "scheduled_begin_at": "2025-08-01",
+      "scheduled_end_at": "2025-08-01",
+      "photo": "https://images.sympla.com.br/6862efc6f0106-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.799Z",
+      "updated_at": "2025-07-31T03:31:23.834Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 574,
+    "fields": {
+      "name": "Yoga no Clube da Prancha",
+      "category": "Saúde e Bem-Estar",
+      "location": "Evento presencial em Clube da Prancha , Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/yoga-no-clube-da-prancha/3018736",
+      "scheduled_begin_at": "2025-08-14",
+      "scheduled_end_at": "2025-08-14",
+      "photo": "https://images.sympla.com.br/6862f2e67efde-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.801Z",
+      "updated_at": "2025-07-31T03:31:23.804Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 575,
+    "fields": {
+      "name": "Festa de São Miguel Arcanjo 2025",
+      "category": "Religião e Espiritualidade",
+      "location": "Evento presencial em Centro de Eventos do Ceará, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/festa-de-sao-miguel-arcanjo-2025/2931773",
+      "scheduled_begin_at": "2025-08-28",
+      "scheduled_end_at": "2025-08-28",
+      "photo": "https://images.sympla.com.br/680e1e5e4f64c-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.802Z",
+      "updated_at": "2025-07-31T03:31:23.810Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 576,
+    "fields": {
+      "name": "Nutri Conexão 2025",
+      "category": "Saúde e Bem-Estar",
+      "location": "Evento presencial em Centro Universitario 7 de Setembro, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/nutri-conexao-2025/3018587",
+      "scheduled_begin_at": "2025-08-13",
+      "scheduled_end_at": "2025-08-13",
+      "photo": "https://images.sympla.com.br/6862ea5fa666d-lg.png",
+      "created_at": "2025-07-30T23:56:50.802Z",
+      "updated_at": "2025-07-31T03:31:23.805Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 577,
+    "fields": {
+      "name": "Yoga e Canoa havaina",
+      "category": "Saúde e Bem-Estar",
+      "location": "Evento presencial em HALE KAI - Clube de canoa havaiana, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/yoga-e-canoa-havaina/3011018",
+      "scheduled_begin_at": "2025-08-17",
+      "scheduled_end_at": "2025-08-17",
+      "photo": "https://images.sympla.com.br/685b1f1bc1a63-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.803Z",
+      "updated_at": "2025-07-31T03:31:23.805Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 578,
+    "fields": {
+      "name": "Vinyasa Yoga | Soundhealing",
+      "category": "Saúde e Bem-Estar",
+      "location": "Evento presencial em Parque do cocó, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/vinyasa-yoga-soundhealing/3022309",
+      "scheduled_begin_at": "2025-08-09",
+      "scheduled_end_at": "2025-08-09",
+      "photo": "https://images.sympla.com.br/686568ecd8d47-lg.png",
+      "created_at": "2025-07-30T23:56:50.803Z",
+      "updated_at": "2025-07-31T03:31:23.805Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 579,
+    "fields": {
+      "name": "COLÔNIA DE FÉRIAS COM MUITO DIVERSÃO É NO MUNDO DA FANTASIA!!",
+      "category": "Infantil",
+      "location": "Evento presencial em R. Cel. José Aurélio Câmara, 911, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/colonia-de-ferias-com-muito-diversao-e-no-mundo-da-fantasia/2989702",
+      "scheduled_begin_at": "2025-08-05",
+      "scheduled_end_at": "2025-08-05",
+      "photo": "https://images.sympla.com.br/6842e858c853a-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.804Z",
+      "updated_at": "2025-07-31T03:31:23.806Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 580,
+    "fields": {
+      "name": "Fortalezas da mente",
+      "category": "Religião e Espiritualidade",
+      "location": "Evento presencial em Goiânia, Goiânia - GO",
+      "link": "https://www.sympla.com.br/evento/fortalezas-da-mente/3003765",
+      "scheduled_begin_at": "2025-08-29",
+      "scheduled_end_at": "2025-08-29",
+      "photo": "https://images.sympla.com.br/6852da1e54aba-lg.png",
+      "created_at": "2025-07-30T23:56:50.805Z",
+      "updated_at": "2025-07-31T03:31:23.806Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 581,
+    "fields": {
+      "name": "8° encontro estadual do movimento mães que oram pelos filhos.",
+      "category": "Religião e Espiritualidade",
+      "location": "Evento presencial em Instituto Hesed - Mosteiro Rainha dos Anjos e São José (Casa Mãe), Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/jantar-de-celebracao-aos-2-anos-da-bara/3021783",
+      "scheduled_begin_at": "2025-08-17",
+      "scheduled_end_at": "2025-08-17",
+      "photo": "https://images.sympla.com.br/683c4af7de69f-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.806Z",
+      "updated_at": "2025-07-31T03:31:23.807Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 582,
+    "fields": {
+      "name": "Casamento Evando e Manu",
+      "category": "Religião e Espiritualidade",
+      "location": "Evento presencial em Ad cidade, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/casamento-evando-e-manu/2883903",
+      "scheduled_begin_at": "2025-08-30",
+      "scheduled_end_at": "2025-08-30",
+      "photo": "https://images.sympla.com.br/67df70c85302d-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.807Z",
+      "updated_at": "2025-07-31T03:31:23.808Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 583,
+    "fields": {
+      "name": "Quebrando Barreiras 2025",
+      "category": "Religião e Espiritualidade",
+      "location": "Evento presencial em Colégio Santo Inácio, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/quebrando-barreiras-2025/2944298",
+      "scheduled_begin_at": "2025-08-13",
+      "scheduled_end_at": "2025-08-13",
+      "photo": "https://images.sympla.com.br/681a414c82867-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.807Z",
+      "updated_at": "2025-07-31T03:31:23.808Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 584,
+    "fields": {
+      "name": "Imersão - Acolhendo sua Criança Interior",
+      "category": "Religião e Espiritualidade",
+      "location": "Evento presencial em Av. Santos Dumont, 3131A, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/imersao-acolhendo-sua-crianca-interior/3001773",
+      "scheduled_begin_at": "2025-08-18",
+      "scheduled_end_at": "2025-08-18",
+      "photo": "https://images.sympla.com.br/685c43d714e17-lg.png",
+      "created_at": "2025-07-30T23:56:50.808Z",
+      "updated_at": "2025-07-31T03:31:23.809Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 585,
+    "fields": {
+      "name": "Fornalha Tour 2025 - Fortaleza",
+      "category": "Religião e Espiritualidade",
+      "location": "Evento presencial em Trigo Church Centro, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/fornalha-tour-2025-fortaleza/2835980",
+      "scheduled_begin_at": "2025-08-08",
+      "scheduled_end_at": "2025-08-08",
+      "photo": "https://images.sympla.com.br/6852f3994defe-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.808Z",
+      "updated_at": "2025-07-31T03:31:23.810Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 586,
+    "fields": {
+      "name": "CONFERÊNCIA DE TREINAMENTO EM ACONSELHAMENTO BÍBLICO | 2025",
+      "category": "Religião e Espiritualidade",
+      "location": "Evento presencial em SIBIMA, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/conferencia-de-treinamento-em-aconselhamento-biblico-2025/2884790",
+      "scheduled_begin_at": "2025-08-21",
+      "scheduled_end_at": "2025-08-21",
+      "photo": "https://images.sympla.com.br/67e14de0d7d14-lg.png",
+      "created_at": "2025-07-30T23:56:50.809Z",
+      "updated_at": "2025-07-31T03:31:23.809Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 587,
+    "fields": {
+      "name": "23° Congresso Espírita do Estado do Ceará - CONECE",
+      "category": "Religião e Espiritualidade",
+      "location": "Evento presencial em Oásis Atlantico Imperial & Fortaleza, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/1a-jornada-liturgica-pnsg/2999082",
+      "scheduled_begin_at": "2025-08-29",
+      "scheduled_end_at": "2025-08-29",
+      "photo": "https://images.sympla.com.br/682d13e54f04a-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.811Z",
+      "updated_at": "2025-07-31T03:31:23.811Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 588,
+    "fields": {
+      "name": "CEARÁ SABRES x FORTALEZA TRITÕES - 1ª RODADA SUPERLIGA DE FUTEBOL AMERICANO 2025",
+      "category": "Esportes",
+      "location": "Evento presencial em Estádio Municipal Raimundo de Oliveira, Caucaia - CE",
+      "link": "https://www.sympla.com.br/evento/fortaleza-ce-novembro-2025/2988266",
+      "scheduled_begin_at": "2025-08-19",
+      "scheduled_end_at": "2025-08-19",
+      "photo": "https://images.sympla.com.br/6851c549892df-lg.png",
+      "created_at": "2025-07-30T23:56:50.812Z",
+      "updated_at": "2025-07-31T03:31:23.812Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 589,
+    "fields": {
+      "name": "Day Use - 1° Edição CHALLENGE - Fetriece",
+      "category": "Esportes",
+      "location": "Evento presencial em Fortaleza, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/expert-em-musculacao-feminina/3005653",
+      "scheduled_begin_at": "2025-08-11",
+      "scheduled_end_at": "2025-08-11",
+      "photo": "https://images.sympla.com.br/67f701f8b0479-lg.png",
+      "created_at": "2025-07-30T23:56:50.813Z",
+      "updated_at": "2025-07-31T03:31:23.816Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 590,
+    "fields": {
+      "name": "Taberna Chess - Torneio de xadrez boêmio",
+      "category": "Esportes",
+      "location": "Evento presencial em Taberna Bar, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/taberna-chess-torneio-de-xadrez-boemio/2925422",
+      "scheduled_begin_at": "2025-08-28",
+      "scheduled_end_at": "2025-08-28",
+      "photo": "https://images.sympla.com.br/6813f64148d9d-lg.png",
+      "created_at": "2025-07-30T23:56:50.814Z",
+      "updated_at": "2025-07-31T03:31:23.813Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 591,
+    "fields": {
+      "name": "ACESSO MMA #9",
+      "category": "Esportes",
+      "location": "Evento presencial em Brewstone Pub, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/acesso-mma-9/2941827",
+      "scheduled_begin_at": "2025-08-05",
+      "scheduled_end_at": "2025-08-05",
+      "photo": "https://images.sympla.com.br/67cc6cc87d8d0-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.814Z",
+      "updated_at": "2025-07-31T03:31:23.814Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 592,
+    "fields": {
+      "name": "Certificação em Treinamento Individualizado(PERSONAL) TURMA IX",
+      "category": "Esportes",
+      "location": "Evento presencial em Academia EveryLife , Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/certificacao-em-treinamento-individualizado-personal-turma-ix/3010263",
+      "scheduled_begin_at": "2025-08-22",
+      "scheduled_end_at": "2025-08-22",
+      "photo": "https://images.sympla.com.br/685ac4b0d9bf1-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.815Z",
+      "updated_at": "2025-07-31T03:31:23.814Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 593,
+    "fields": {
+      "name": "CAMPEONATO CEARENSE DE FOOT TABLE 2025",
+      "category": "Esportes",
+      "location": "Evento presencial em Sesc Fortaleza, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/campeonato-cearense-de-foot-table-2025/3011278",
+      "scheduled_begin_at": "2025-08-09",
+      "scheduled_end_at": "2025-08-09",
+      "photo": "https://images.sympla.com.br/685b66dcca3ac-lg.png",
+      "created_at": "2025-07-30T23:56:50.816Z",
+      "updated_at": "2025-07-31T03:31:23.815Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 594,
+    "fields": {
+      "name": "Curso de Arbitragem de Foot table",
+      "category": "Esportes",
+      "location": "Evento presencial em Ginásio Paulo Sarasate, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/curso-de-arbitragem-de-foot-table/2986737",
+      "scheduled_begin_at": "2025-08-03",
+      "scheduled_end_at": "2025-08-03",
+      "photo": "https://images.sympla.com.br/6840566d58dc9-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.816Z",
+      "updated_at": "2025-07-31T03:31:23.815Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 595,
+    "fields": {
+      "name": "NATTIEL RUN 2.0",
+      "category": "Esportes",
+      "location": "Evento presencial em Fortaleza Materiais, Alagoinhas - BA",
+      "link": "https://www.sympla.com.br/evento/nattiel-run-2-0/2977321",
+      "scheduled_begin_at": "2025-08-22",
+      "scheduled_end_at": "2025-08-22",
+      "photo": "https://images.sympla.com.br/68375789b8b58-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.818Z",
+      "updated_at": "2025-07-31T03:31:23.816Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 596,
+    "fields": {
+      "name": "CIRCUITO SESC DE CORRIDAS ETAPA FORTALEZA 2025",
+      "category": "Esportes",
+      "location": "Evento presencial em Estacionamento do Rio Mar Fortaleza, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/circuito-sesc-de-corridas-etapa-fortaleza-2025/3011758",
+      "scheduled_begin_at": "2025-08-17",
+      "scheduled_end_at": "2025-08-17",
+      "photo": "https://images.sympla.com.br/685c144562b58-lg.png",
+      "created_at": "2025-07-30T23:56:50.819Z",
+      "updated_at": "2025-07-31T03:31:23.817Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 597,
+    "fields": {
+      "name": "MARATONINHA SESC ETAPA FORTALEZA-CE 2025",
+      "category": "Esportes",
+      "location": "Evento presencial em Rio Mar Kennedy, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/maratoninha-sesc-etapa-fortaleza-ce-2025/3013150",
+      "scheduled_begin_at": "2025-08-14",
+      "scheduled_end_at": "2025-08-14",
+      "photo": "https://images.sympla.com.br/685d4b9b6ec0f-lg.png",
+      "created_at": "2025-07-30T23:56:50.820Z",
+      "updated_at": "2025-07-31T03:31:23.818Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 598,
+    "fields": {
+      "name": "Workshop com Degustação de Pizza Napoletana - 06/08/2025",
+      "category": "Gastronomia",
+      "location": "Evento presencial em R. Antônio Augusto, 1576, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/workshop-com-degustacao-de-pizza-napoletana-06-08-2025/2983166",
+      "scheduled_begin_at": "2025-08-29",
+      "scheduled_end_at": "2025-08-29",
+      "photo": "https://images.sympla.com.br/5c744d8a96427-lg.png",
+      "created_at": "2025-07-30T23:56:50.820Z",
+      "updated_at": "2025-07-31T03:31:23.818Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 599,
+    "fields": {
+      "name": "Ingresso BRAVA WINE no Parque Bambolim!",
+      "category": "Gastronomia",
+      "location": "Evento presencial em Parque Bambolim Pé de Imaginação - Recreação Infantil, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/ingresso-brava-wine-no-parque-bambolim/2940647",
+      "scheduled_begin_at": "2025-08-19",
+      "scheduled_end_at": "2025-08-19",
+      "photo": "https://images.sympla.com.br/68152af4952e9-lg.png",
+      "created_at": "2025-07-30T23:56:50.821Z",
+      "updated_at": "2025-07-31T03:31:23.818Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 600,
+    "fields": {
+      "name": "OktoberFest Turatti, Hey Ho e 5 Elementos 2025",
+      "category": "Gastronomia",
+      "location": "Evento presencial em Av. Recreio, 1210, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/oktoberfest-turatti-hey-ho-e-5-elementos-2025/2949958",
+      "scheduled_begin_at": "2025-08-30",
+      "scheduled_end_at": "2025-08-30",
+      "photo": "https://images.sympla.com.br/684c5d5ca3923-lg.png",
+      "created_at": "2025-07-30T23:56:50.821Z",
+      "updated_at": "2025-07-31T03:31:23.819Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 601,
+    "fields": {
+      "name": "Tasting del Primo | 2025",
+      "category": "Gastronomia",
+      "location": "Evento presencial em Cabaña del Primo | Unidade Jardins, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/tasting-del-primo-2025/3021688",
+      "scheduled_begin_at": "2025-08-01",
+      "scheduled_end_at": "2025-08-01",
+      "photo": "https://images.sympla.com.br/6866cc7adb957-lg.png",
+      "created_at": "2025-07-30T23:56:50.822Z",
+      "updated_at": "2025-07-31T03:31:23.819Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 602,
+    "fields": {
+      "name": "Dionisíacas: Oficina de escrita & vinho com Roberto Medeiros - Edição Fortaleza, Muá Tuá Bistrot",
+      "category": "Gastronomia",
+      "location": "Evento presencial em Muá Tuá Bistrot, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/dionisiacas-oficina-de-escrita-vinho-com-roberto-medeiros-edicao-fortaleza-mua-tua-bistrot/3026030",
+      "scheduled_begin_at": "2025-08-20",
+      "scheduled_end_at": "2025-08-20",
+      "photo": "https://images.sympla.com.br/6868429c908d0-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.823Z",
+      "updated_at": "2025-07-31T03:31:23.820Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 603,
+    "fields": {
+      "name": "Jantar Afrikano Bileyi Ya Pokua - Casa Pitêu 2ª Edição Fortaleza",
+      "category": "Gastronomia",
+      "location": "Evento presencial em Pitéu Casa Criativa, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/jantar-afrikano-bileyi-ya-pokua-casa-piteu-2a-edicao-fortaleza/2941069",
+      "scheduled_begin_at": "2025-08-11",
+      "scheduled_end_at": "2025-08-11",
+      "photo": "https://images.sympla.com.br/68162d854ac56-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.823Z",
+      "updated_at": "2025-07-31T03:31:23.820Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 604,
+    "fields": {
+      "name": "Método Nady: Acrílico para Iniciantes com Propósito",
+      "category": "Moda e Beleza",
+      "location": "Evento presencial em Av. Viena Weyne, 890, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/metodo-nady-acrilico-para-iniciantes-com-proposito/2996651",
+      "scheduled_begin_at": "2025-08-17",
+      "scheduled_end_at": "2025-08-17",
+      "photo": "https://images.sympla.com.br/684ad031791a8-lg.png",
+      "created_at": "2025-07-30T23:56:50.824Z",
+      "updated_at": "2025-07-31T03:31:23.821Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 605,
+    "fields": {
+      "name": "CLAUDIA HELENA em: Medicada - Stand Up Comedy em Fortaleza!",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em Teatro Chico Anysio, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/claudia-helena-em-medicada-stand-up-comedy-em-fortaleza/2984237",
+      "scheduled_begin_at": "2025-08-30",
+      "scheduled_end_at": "2025-08-30",
+      "photo": "https://images.sympla.com.br/683e1d811447f-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.824Z",
+      "updated_at": "2025-07-31T03:31:23.833Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 606,
+    "fields": {
+      "name": "Plastique Noir - Gravação Filme Covil | Covil Rock'n Bar - Domingo 27/07",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em Covil Rock'n Bar, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/plastique-noir-gravacao-filme-covil-covil-rock-n-bar-domingo-27-07/2994880",
+      "scheduled_begin_at": "2025-07-31",
+      "scheduled_end_at": "2025-07-31",
+      "photo": "https://images.sympla.com.br/6848e8bd17e94-lg.png",
+      "created_at": "2025-07-30T23:56:50.825Z",
+      "updated_at": "2025-07-31T03:31:23.821Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 607,
+    "fields": {
+      "name": "SHOW DE HUMOR CROCOBEACH - TITELA | BRUNO PAZ | ROBERTO RIZZO E SEU SERGIO 24/07",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em Complexo Crocobeach, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/show-de-humor-crocobeach-titela-bruno-paz-roberto-rizzo-e-seu-sergio-24-07/3005661",
+      "scheduled_begin_at": "2025-08-25",
+      "scheduled_end_at": "2025-08-25",
+      "photo": "https://images.sympla.com.br/67a5117b69d9e-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.826Z",
+      "updated_at": "2025-07-31T03:31:23.830Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 608,
+    "fields": {
+      "name": "ALIE E AS ESTRELAS - III FESTIVAL DE TEATRO PARA CRIANÇAS",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em AABB FORTALEZA, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/alie-e-as-estrelas-iii-festival-de-teatro-para-criancas/3016821",
+      "scheduled_begin_at": "2025-08-24",
+      "scheduled_end_at": "2025-08-24",
+      "photo": "https://images.sympla.com.br/68617af002952-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.827Z",
+      "updated_at": "2025-07-31T03:31:23.832Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 609,
+    "fields": {
+      "name": "Mau Tavares - Muito Bem Servido em Fortaleza",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em Jóquei Comedy, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/mau-tavares-muito-bem-servido-em-fortaleza/2957544",
+      "scheduled_begin_at": "2025-08-15",
+      "scheduled_end_at": "2025-08-15",
+      "photo": "https://images.sympla.com.br/6824d4f2d6bc8-lg.png",
+      "created_at": "2025-07-30T23:56:50.828Z",
+      "updated_at": "2025-07-31T03:31:23.824Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 610,
+    "fields": {
+      "name": "Encontro Nordestino de Dança do Ventre - Edição 5",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em Av. Beira Mar, 4753, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/encontro-nordestino-de-danca-do-ventre-edicao-5/2979844",
+      "scheduled_begin_at": "2025-08-08",
+      "scheduled_end_at": "2025-08-08",
+      "photo": "https://images.sympla.com.br/6838c7525e060-lg.png",
+      "created_at": "2025-07-30T23:56:50.829Z",
+      "updated_at": "2025-07-31T03:31:23.825Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 611,
+    "fields": {
+      "name": "Os Mininus 13/Set Sab 20H",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em Ai Dentu Comedy, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/os-mininus-13-set-sab-20h/3000896",
+      "scheduled_begin_at": "2025-08-19",
+      "scheduled_end_at": "2025-08-19",
+      "photo": "https://images.sympla.com.br/68508663107bb-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.830Z",
+      "updated_at": "2025-07-31T03:31:23.834Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 612,
+    "fields": {
+      "name": "SANTIAGO - O ESPETÁCULO",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em Casa de Juvenal Galeno, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/santiago-o-espetaculo/3006774",
+      "scheduled_begin_at": "2025-08-18",
+      "scheduled_end_at": "2025-08-18",
+      "photo": "https://images.sympla.com.br/685708ba4c5b5-lg.png",
+      "created_at": "2025-07-30T23:56:50.830Z",
+      "updated_at": "2025-07-31T03:31:23.826Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 613,
+    "fields": {
+      "name": "Os Cabra Macho com Roberto Rizzo e Seu Sérgio | 31/Jul | 20H",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em Esquina Brasil - Gastronomia e Cultura, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/os-cabra-macho-com-roberto-rizzo-e-seu-sergio-31-jul-20h/3013815",
+      "scheduled_begin_at": "2025-08-02",
+      "scheduled_end_at": "2025-08-02",
+      "photo": "https://images.sympla.com.br/685d88f5a98e6-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.831Z",
+      "updated_at": "2025-07-31T03:31:23.832Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 614,
+    "fields": {
+      "name": "Estreia Especial do Stand-up em Libras em Fortaleza!",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em Associação dos Surdos do Ceará, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/estreia-especial-do-stand-up-em-libras-em-fortaleza/3014180",
+      "scheduled_begin_at": "2025-08-14",
+      "scheduled_end_at": "2025-08-14",
+      "photo": "https://images.sympla.com.br/685db7cd318a5-lg.png",
+      "created_at": "2025-07-30T23:56:50.832Z",
+      "updated_at": "2025-07-31T03:31:23.827Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 615,
+    "fields": {
+      "name": "Comédia para Cristãos com Thiago Matso - (DIA 19/7)",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em Av. Senador Fernandes Távora, 521, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/comedia-para-cristaos-com-thiago-matso-dia-19-7/3000829",
+      "scheduled_begin_at": "2025-08-06",
+      "scheduled_end_at": "2025-08-06",
+      "photo": "https://images.sympla.com.br/68507857d5290-lg.png",
+      "created_at": "2025-07-30T23:56:50.834Z",
+      "updated_at": "2025-07-31T03:31:23.828Z"
+    }
+  },
+  {
+    "model": "chegados_api.socialevent",
+    "pk": 616,
+    "fields": {
+      "name": "No Ritmo do Hip Hop - Batalhas, Cultura e Expressão no Palco",
+      "category": "Arte, Cinema e Lazer",
+      "location": "Evento presencial em Teatro RioMar Fortaleza, Fortaleza - CE",
+      "link": "https://www.sympla.com.br/evento/no-ritmo-do-hip-hop-batalhas-cultura-e-expressao-no-palco/2661903",
+      "scheduled_begin_at": "2025-08-27",
+      "scheduled_end_at": "2025-08-27",
+      "photo": "https://images.sympla.com.br/66f96eb1b85b6-lg.jpg",
+      "created_at": "2025-07-30T23:56:50.836Z",
+      "updated_at": "2025-07-31T03:31:23.830Z"
+    }
+  }
+]

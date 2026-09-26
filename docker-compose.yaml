@@ -1,0 +1,76 @@
+version: "3.8"
+
+services:
+  redis:
+    image: redis:alpine
+    env_file:
+      - ./django_app/.env
+    volumes:
+      - chegados_redis_storage:/data
+    ports:
+      - "6379:6379"
+
+  redis_insight:
+    image: redis/redisinsight:latest
+    restart: always
+    ports:
+      - "5540:5540"
+    volumes:
+      - chegados_redisinsight_storage:/data
+    depends_on:
+      - redis
+
+  chegados_postgres:
+    container_name: chegados_postgres
+    image: postgres:14-alpine
+    volumes:
+      - chegados_db_storage:/var/lib/postgresql/data
+      - ./init-database.sh:/docker-entrypoint-initdb.d/init-database.sh
+
+    restart: on-failure
+    env_file:
+      - django_app/.env
+    ports:
+      - "5432:5432"
+
+  backend:
+    container_name: backend
+    platform: linux/amd64
+    build:
+      context: ./django_app
+      dockerfile: Dockerfile
+    volumes:
+      - ./django_app:/django_app:cached
+    command: ["bash", "./entrypoint.dev.sh"]
+    restart: on-failure
+    env_file:
+      - django_app/.env
+    ports:
+      - "8000:5000"
+    depends_on:
+      - chegados_postgres
+      - redis
+
+  frontend:
+    container_name: frontend
+    platform: linux/amd64
+    build:
+      context: ./react_app
+      dockerfile: dev.Dockerfile
+    volumes:
+      - ./react_app:/react_app:cached
+      - /react_app/node_modules
+      - /react_app/.next
+    command: ["yarn", "dev"]
+    restart: on-failure
+    env_file:
+      - react_app/.env
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  chegados_db_storage:
+  chegados_redis_storage:
+  chegados_redisinsight_storage:
